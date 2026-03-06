@@ -23,14 +23,19 @@ Judge LLM (Combine Qwen + Gemini + Image)
 Final Transcription
 ```
 
-Evaluation Metrics:
-    1.Cer score: 8.92% (pg.no 20) 
-    <img width="643" height="67" alt="answer1" src="https://github.com/user-attachments/assets/03222e3e-29b1-47f6-a538-c0c349900b10" />
-    2.Bert score: 91% (pg.no 20)
-    <img width="263" height="100" alt="bert_score" src="https://github.com/user-attachments/assets/9b5e9b49-95b8-458d-b265-89983644de9b" />
-    3.Wer score:30% (pg.no 21)
-    The higher WER is mainly due to word-level mismatches.
-    
+## Evaluation Metrics
+
+1. **CER Score:** 8.92% (pg. 20)
+
+<img width="643" height="67" alt="answer1" src="https://github.com/user-attachments/assets/03222e3e-29b1-47f6-a538-c0c349900b10" />
+
+2. **BERTScore:** 91% (pg. 20)
+
+<img width="263" height="100" alt="bert_score" src="https://github.com/user-attachments/assets/9b5e9b49-95b8-458d-b265-89983644de9b" />
+
+3. **WER Score:** 30% (pg. 21)
+
+The higher WER is mainly due to word-level mismatches.
     
 
 
