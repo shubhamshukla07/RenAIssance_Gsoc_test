@@ -27,7 +27,8 @@ Final Transcription
 
 1. **CER Score:** 8.92% (pg. 20)
 
-<img width="643" height="67" alt="answer1" src="https://github.com/user-attachments/assets/03222e3e-29b1-47f6-a538-c0c349900b10" />
+<img width="206" height="75" alt="cer_score" src="https://github.com/user-attachments/assets/03c448f9-1c0c-49ff-a143-1d759a6e1d24" />
+
 
 2. **BERTScore:** 91% (pg. 20)
 
